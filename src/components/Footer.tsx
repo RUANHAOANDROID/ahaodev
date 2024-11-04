@@ -27,7 +27,7 @@ const Footer: React.FC = () => {
             </div>
           </div>
           <div className="w-full md:w-1/3 mb-6 md:mb-0 text-center">
-            <p>&copy; 2024 hao88.work. All rights reserved.</p>
+            <p>&copy; 2024 ahaodev.com. All rights reserved.</p>
           </div>
           <div className="w-full md:w-1/3 text-right">
             <Link to="/contact" className="hover:text-blue-400 flex items-center justify-end">

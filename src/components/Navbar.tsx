@@ -44,7 +44,7 @@ const Navbar: React.FC = () => {
             className="flex items-center"
           >
             <Code2 className="h-8 w-8 text-blue-600 mr-2" />
-            <span className="text-xl font-bold text-gray-800">hao88</span>
+            <span className="text-xl font-bold text-gray-800">ahaodev</span>
           </a>
           <div className="hidden md:flex items-center space-x-4">
             <NavLink to="/services" icon={<Globe className="h-5 w-5" />} text="服务" />
