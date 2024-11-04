@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { ArrowLeft, Download, Share2, FileText, Settings } from 'lucide-react';
+import { ArrowLeft, Download, Share2 } from 'lucide-react';
 
 interface Version {
   version: string;
